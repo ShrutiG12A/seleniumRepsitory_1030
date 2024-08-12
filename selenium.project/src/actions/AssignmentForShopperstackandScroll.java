@@ -40,5 +40,6 @@ public class AssignmentForShopperstackandScroll {
 //act.scrollByAmount(300, 0);
 // with every method we need to call the perform method so that it will perform that action 
 // perform method return type is void ;
+		act.scrollByAmount(300, 700).perform();
 	}
 }
